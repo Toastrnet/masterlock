@@ -1,1 +1,2 @@
 # masterlock
+DO NOT USE FOR MALICOUS USE
